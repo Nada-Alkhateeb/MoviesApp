@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="Popular_Title">Trailer %1$d</string>
+
+    <string name="Popular_Movie_Title">Popular Movies</string>
+    <string name="Top_Rated_Title">Top Rated Movies</string>
+    <string name="Favorite_Title">Favorite Movies</string>
+
+    
+
+
+</resources>
